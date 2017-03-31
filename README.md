@@ -1,2 +1,2 @@
-# naughtydog
+# haughtydog
 Random HTTP Traffic Generator
